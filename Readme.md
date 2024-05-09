@@ -7,9 +7,9 @@
 
 - 👋 Hi, I’m @Reaien
 - 👀 I’m interested in being a good developer
-- 🌱 I’m currently learning java in university and now i'm starting with JavaScript i want to be a fullstack developer
-- 💞️ I’m interested on cloud services
-- 📫 You can reach me in my Linkedin for any contact https://www.linkedin.com/in/ivanduarteh/ 
+- 🌱 I’m currently learning Informatic Engineer in university and now i'm starting with JavaScript, i want to be a fullstack web developer
+- 💞️ I’m interested on web develop, programming, to be a good engineer
+- 📫 You can reach me in my Linkedin for any contact https://www.linkedin.com/in/ivanduarteh/ or my portfolio https://portafolio-ivan-duarte.pages.dev/
 
 <!---
 Reaien/Reaien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
