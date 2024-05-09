@@ -21,10 +21,33 @@
 <br>
 
 <div display="flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reaien&theme=monokai&show_icons=true&hide_border=false&count_private=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reaien&theme=monokai&show_icons=true&hide_border=false&layout=compact">
 </div>
 
+<h2 align="center">👨🏻‍💻 Thanks to my performance in my computer engineering career at DuocUC, I have also been able to teach front-end web development reinforcement classes using HTML, CSS, JS, and Bootstrap 5 technologies, as well as back-end with Django and SQLite.</h2>
+
+<table align="center" >
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/iom8QlFf_nE?si=vIDcczCnG5u_b4eJ" title="Go to Source">
+        <img align="center" width=100% src="https://i.imgur.com/VvOh5cG.png"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/iom8QlFf_nE?si=vIDcczCnG5u_b4eJ" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="link"  /></a>
+      <a href="https://github.com/Reaien/Curso_FULL_STACK01" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="link" /></a>
+    </p>       
+</td>
+<td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/ec58N9Q_JEs?si=6Idry9OW7-ev9H3f" title="Go to Source">
+        <img align="center" width=100% src="https://i.imgur.com/Fa6Ilx4.png"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/ec58N9Q_JEs?si=6Idry9OW7-ev9H3f" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="link"  /></a>
+      <a href="https://github.com/Reaien/Curso_FULL_STACK02" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="link" /></a>
+    </p>       
+</td>
 
 
 
