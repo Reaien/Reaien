@@ -15,6 +15,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reaien&theme=monokai&show_icons=true&hide_border=false&layout=compact">
 </div>
 
+<h2 align="center">
+  Technologies I have worked with
+</h2>
+
+<div align="center">
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,django,aws,sqlite,mysql&perline=6)](https://skillicons.dev)
+</div>
 
 
 
