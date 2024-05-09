@@ -47,11 +47,12 @@
     </p>       
 </td>
 
+<br>
 
-<div display="flex">
+<p display="flex">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reaien&theme=monokai&hide_border=false"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reaien&theme=monokai&show_icons=true&hide_border=false&layout=compact">
-</div>
+</p>
 
 
 
