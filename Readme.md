@@ -10,8 +10,11 @@
 - 💞️ I’m interested on web develop, programming, to be a good engineer
 - 📫 You can reach me in my Linkedin for any contact https://www.linkedin.com/in/ivanduarteh/ or my portfolio https://portafolio-ivan-duarte.pages.dev/
 
+<div display="flex">
+  <img src="https://github-readme-stats.vercel.app/api?username=Reaien&theme=monokai&show_icons=true&hide_border=false&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=Reaien&theme=monokai&show_icons=true&hide_border=false&count_private=true">
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Reaien&theme=monokai&show_icons=true&hide_border=false&count_private=true">
 
 
 
