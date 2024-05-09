@@ -19,9 +19,9 @@
   Technologies I have worked with
 </h2>
 
-<div align="center">
+
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,django,aws,sqlite,mysql&perline=6)](https://skillicons.dev)
-</div>
+
 
 
 
