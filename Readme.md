@@ -20,9 +20,7 @@
 
 <br>
 
-<div display="flex">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reaien&theme=monokai&show_icons=true&hide_border=false&layout=compact">
-</div>
+
 
 <h2 align="center">👨🏻‍💻 Thanks to my performance in my computer engineering career at DuocUC, I have also been able to teach front-end web development reinforcement classes using HTML, CSS, JS, and Bootstrap 5 technologies, as well as back-end with Django and SQLite.</h2>
 
@@ -49,6 +47,11 @@
     </p>       
 </td>
 
+
+<div display="flex">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reaien&theme=monokai&hide_border=false"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reaien&theme=monokai&show_icons=true&hide_border=false&layout=compact">
+</div>
 
 
 
