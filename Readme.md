@@ -20,7 +20,7 @@
 </h2>
 
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,django,aws,sqlite,mysql&perline=6)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,django,aws,sqlite,mysql)](https://skillicons.dev)
 
 
 
