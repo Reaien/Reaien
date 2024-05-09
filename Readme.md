@@ -10,6 +10,11 @@
 - 💞️ I’m interested on web develop, programming, to be a good engineer
 - 📫 You can reach me in my Linkedin for any contact https://www.linkedin.com/in/ivanduarteh/ or my portfolio https://portafolio-ivan-duarte.pages.dev/
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=Reaien&theme=monokai&show_icons=true&hide_border=false&count_private=true">
+
+
+
 <!---
 Reaien/Reaien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
