@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, welcome to my profile, I'm... </h1>
-<p align="center">
+<a href="https://portafolio-ivan-duarte.pages.dev/" align="center">
   <img src="https://i.imgur.com/pxTEkM1.png">
 </p>
 
